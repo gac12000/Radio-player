@@ -1,0 +1,4 @@
+DIGI FM|ALL|RO|https://edge76.rdsnet.ro:84/digifm/digifm.mp3
+PRO FM|ALL|RO|https://edge76.rdsnet.ro:84/profm/profm.mp3
+
+MIXCLOUD DANT DIGI FM|ALL|RO|https://www.mixcloud.com/DigiFM/
